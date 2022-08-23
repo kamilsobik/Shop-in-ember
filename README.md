@@ -5,7 +5,7 @@ A short introduction of this app could easily go here.
 
 ## Netlify link
 
-- [Netlify link](kamil-shop.netlify.app)
+- [Netlify link](https://kamil-shop.netlify.app)
 
 ## Prerequisites
 
